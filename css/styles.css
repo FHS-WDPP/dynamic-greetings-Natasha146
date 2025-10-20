@@ -6,6 +6,24 @@
            1. Morning Theme (5:00 - 11:59)
            --------------------------------- */
         /* General Morning Styles */
+.circle {
+  width: 500px;
+  height: 500px;
+  background-color: yellow; /* Example color */
+  border-radius: 50%; /* Makes it a circle */
+
+  position: fixed; /* Allows precise positioning within the parent */
+  bottom: 0;
+  right: 0; /* Aligns to the right edge of the container */
+  top: 30%; /* Aligns to the top edge of the container */
+   margin: 10px;
+}
+
+
+
+
+        /* Position the element in the bottom-right  corner */
+
 
 
 
@@ -14,7 +32,7 @@
 
 
 
-        
+
         /* ---------------------------------
            2. Afternoon Theme (12:00 - 17:59)
            --------------------------------- */
@@ -37,8 +55,3 @@
 
 
         /* Custom Night Animation */
-
-
-
-
- 
